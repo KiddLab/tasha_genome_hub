@@ -146,9 +146,14 @@ noInherit on
     type bigBed 6 +
     bigDataUrl tasha.rmsk.Other.bb
 
-
-
-
+track segdup
+longLabel segdup > 90%
+shortLabel segdup
+visibility hide
+itemRgb on 
+bigDataUrl SegDup.bb
+type bigBed 9
+group map
 
 
 
