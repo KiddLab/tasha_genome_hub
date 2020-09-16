@@ -147,9 +147,9 @@ noInherit on
     bigDataUrl tasha.rmsk.Other.bb
 
 
-track segdup
-longLabel segdup > 90%
-shortLabel segdup
+track SegDup
+longLabel SegDup > 90%
+shortLabel SegDup
 visibility hide
 itemRgb on 
 bigDataUrl SegDup.bb
