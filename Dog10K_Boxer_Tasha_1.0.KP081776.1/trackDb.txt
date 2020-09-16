@@ -1,0 +1,21 @@
+track gap
+longLabel Gaps 
+shortLabel Assembly Gaps 
+priority 11
+visibility hide
+color 0,0,0 
+bigDataUrl Tasha4_gaps.bb
+type bigBed
+group map
+
+
+
+
+
+
+
+
+
+
+
+

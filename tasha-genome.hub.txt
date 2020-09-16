@@ -1,0 +1,5 @@
+hub TashaHub
+shortLabel Track Data Hub for Tasha Long Read Genome 
+longLabel Track Data Hub for Tasha Long Read Genome, Dog10K_Boxer_Tasha_1.0.KP081776.1
+genomesFile tasha-genome.genomes.txt
+email jmkidd@med.umich.edu
