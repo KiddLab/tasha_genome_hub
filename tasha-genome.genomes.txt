@@ -1,7 +1,7 @@
 genome Dog10K_Boxer_Tasha_1.0.KP081776.1
 trackDb Dog10K_Boxer_Tasha_1.0.KP081776.1/trackDb.txt
 groups Dog10K_Boxer_Tasha_1.0.KP081776.1/groups-Tasha.txt
-description  Tasha
+description  Dog10K_Boxer_Tasha_1.0.KP081776.1
 organism Boxer
 scientificName Canis familiaris
 defaultPos chr1:200000-201000

@@ -9,6 +9,18 @@ type bigBed
 group map
 
 
+track trf_
+longLabel TRF 
+shortLabel TRF 
+priority 11
+visibility hide
+color 0,0,0 
+bigDataUrl combined-TRF.bb
+type bigBed
+group map
+
+
+
 
 
 
