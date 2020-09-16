@@ -156,6 +156,39 @@ bigDataUrl SegDup.bb
 type bigBed 9
 group map
 
+track GC_content
+type bigWig
+container multiWig
+shortLabel GC_content
+longLabel GC Content
+aggregate transparentOverlay
+showSubtrackColoronUi on
+maxHeightPixels 500:100:8
+browser full all
+viewLimits 0:1
+yLineMark 0.41
+yLineOnOff off
+group map
+
+        track 50bp_gc
+        parent GC_content
+        type bigWig
+        bigDataUrl https://kiddlabshare.med.umich.edu/Dog10K_Boxer_Tasha_1.0.KP081776.1/50.bw
+        shortLabel GC_50bp
+        longLabel GC 50bp window
+        graphTypeDefault bar
+        yLineOnOff off
+        yLineMark 0.0
+        color 142,142,142
+
+        track 400bp_gc
+        parent GC_content
+        type bigWig
+        bigDataUrl https://kiddlabshare.med.umich.edu/Dog10K_Boxer_Tasha_1.0.KP081776.1/400.bw
+        shortLabel GC_400bp
+        longLabel GC 400bp window
+        graphTypeDefault bar
+        yLineOnOff on
 
 
 
