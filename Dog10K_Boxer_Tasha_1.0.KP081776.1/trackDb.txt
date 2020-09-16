@@ -191,6 +191,34 @@ group map
         yLineOnOff on
 
 
+track CH82_concordant
+type bigBed 12
+bigDataUrl CHORI-82.concordant.bb
+shortLabel CH82_concordant
+longLabel  CHORI-82 Concordant BACs
+visibility hide
+itemRgb on
+group map
+
+track CH82_disccordant
+type bigBed 12
+bigDataUrl CHORI-82.discordant.bb
+shortLabel CH82_disconcordant
+longLabel  CHORI-82 Discordant BACs
+visibility hide
+itemRgb on
+group map
+
+track CH82_largedisconcordant
+type bigBed 12
+bigDataUrl CHORI-82.largediscordant.bb
+shortLabel CH82_largedisconcordant
+longLabel  CHORI-82 Large Discordant BACs
+visibility hide
+itemRgb on
+group map
+
+
 
 
 
