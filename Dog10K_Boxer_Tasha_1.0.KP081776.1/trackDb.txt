@@ -19,7 +19,13 @@ bigDataUrl combined-TRF.bb
 type bigBed
 group map
 
-
+track WM_Dust
+type bigBed 
+bigDataUrl combined-WM-DUST.bb
+shortLabel WindowMasker and DUST
+longLabel WindowMasker and DUST
+visibility hide
+group map
 
 
 
