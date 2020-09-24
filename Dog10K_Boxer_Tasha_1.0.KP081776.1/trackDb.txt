@@ -240,6 +240,17 @@ yLineOnOff on
 yLineMark 2
 group fastCN
 
+track zoey_bedCol
+type bigBed 9
+bigDataUrl zoey.depth.3kb.bed.CN.col.bb
+shortLabel zoey fastCN Color
+longLabel zoey fastCN 3kb Color
+itemRgb on
+visibility hide
+group fastCN
+
+
+
 ########
 
 
