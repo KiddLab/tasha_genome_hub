@@ -243,7 +243,7 @@ group fastCN
 track zoey_bedCol
 type bigBed 9
 bigDataUrl zoey.depth.3kb.bed.CN.col.bb
-shortLabel zoey fastCN Color
+shortLabel zoey color
 longLabel zoey fastCN 3kb Color
 itemRgb on
 visibility hide
