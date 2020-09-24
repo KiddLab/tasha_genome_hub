@@ -228,6 +228,101 @@ visibility hide
 group map
 
 
+#####
+track Tasha_10x_CN_3kb
+type bigWig
+bigDataUrl Tasha_10x.depth.3kb.bed.CN.bw
+shortLabel Tasha_10x fastCN
+longLebel Tasha_10x fastCN 3kb
+viewLimits 0:8
+visibility hide
+yLineOnOff on
+yLineMark 2
+group fastCN
+
+track zoey_CN_3kb
+type bigWig
+bigDataUrl zoey.depth.3kb.bed.CN.bw
+shortLabel zoey fastCN
+longLebel zoey fastCN 3kb
+viewLimits 0:8
+visibility hide
+yLineOnOff on
+yLineMark 2
+group fastCN
+
+track ibw01_CN_3kb
+type bigWig
+bigDataUrl ibw01.depth.3kb.bed.CN.bw
+shortLabel ibw01 fastCN
+longLebel ibw01 fastCN 3kb
+viewLimits 0:8
+visibility hide
+yLineOnOff on
+yLineMark 2
+group fastCN
+
+track Tasha_4kplasmids_CN_3kb
+type bigWig
+bigDataUrl Tasha_4kplasmids.depth.3kb.bed.CN.bw
+shortLabel Tasha_4kplasmids fastCN
+longLebel Tasha_4kplasmids fastCN 3kb
+viewLimits 0:8
+visibility hide
+yLineOnOff on
+yLineMark 2
+group fastCN
+
+track Tasha_10x_bedCol
+type bigBed 9
+bigDataUrl Tasha_10x.depth.3kb.bed.CN.col.bb
+shortLabel Tasha_10x fastCN Color
+longLebel Tasha_10x fastCN 3kb Color
+itemRgb on
+visibility hide
+group fastCN
+
+track ibw01_bedCol
+type bigBed 9
+bigDataUrl ibw01.depth.3kb.bed.CN.col.bb
+shortLabel ibw01 fastCN Color
+longLebel ibw01 fastCN 3kb Color
+itemRgb on
+visibility hide
+group fastCN
+
+track zoey_bedCol
+type bigBed 9
+bigDataUrl zoey.depth.3kb.bed.CN.col.bb
+shortLabel zoey fastCN Color
+longLebel zoey fastCN 3kb Color
+itemRgb on
+visibility hide
+group fastCN
+
+track Tasha_4kplasmids_bedCol
+type bigBed 9
+bigDataUrl Tasha_4kplasmids.depth.3kb.bed.CN.col.bb
+shortLabel Tasha_4kplasmids fastCN Color
+longLebel Tasha_4kplasmids fastCN 3kb Color
+itemRgb on
+visibility hide
+group fastCN
+########
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

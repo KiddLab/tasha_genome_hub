@@ -7,3 +7,8 @@ name genes
 label Genes and Gene Predictions
 priority 1
 defaultIsClosed 1
+
+name fastCN
+label read depth based on fastCN
+priority 1
+defaultIsClosed 1
