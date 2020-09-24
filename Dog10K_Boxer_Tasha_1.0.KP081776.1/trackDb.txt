@@ -310,7 +310,24 @@ visibility hide
 group fastCN
 ########
 
+track Halo_gene_blat
+type bigBed 12
+bigDataUrl Halo_all.bb
+shortLabel Halo Genes
+longLabel  Halo BLAT genes
+visibility hide
+group genes
 
+track NCBI_gene_blat
+type bigBed 12
+bigDataUrl NCBI_all.bb
+shortLabel NCBI Genes
+longLabel  NCBI_rel105 BLAT genes
+visibility hide
+group genes
+
+
+########
 
 
 
