@@ -5,10 +5,13 @@ defaultIsClosed 1
 
 name genes
 label Genes and Gene Predictions
-priority 1
+priority 2
 defaultIsClosed 1
 
 name fastCN
 label read depth based on fastCN
-priority 1
+priority 3
 defaultIsClosed 1
+
+
+
