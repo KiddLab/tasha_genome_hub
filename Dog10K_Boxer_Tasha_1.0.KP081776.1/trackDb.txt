@@ -218,6 +218,34 @@ visibility hide
 itemRgb on
 group map
 
+
+track fosmids_concordant
+type bigBed 12
+bigDataUrl fosmids.concordant.bb
+shortLabel fosmids concordant
+longLabel  fosmids concordant
+visibility hide
+itemRgb on
+group map
+
+track fosmids_disccordant
+type bigBed 12
+bigDataUrl fosmids.discordant.bb
+shortLabel fosmids disconcordant
+longLabel  fosmids discordant 
+visibility hide
+itemRgb on
+group map
+
+track fosmids_largedisconcordant
+type bigBed 12
+bigDataUrl fosmids.largediscordant.bb
+shortLabel fosmids largedisconcordant
+longLabel  fosmids large discordant
+visibility hide
+itemRgb on
+group map
+
 track canFam_lift
 type bigBed 9
 itemRgb on
