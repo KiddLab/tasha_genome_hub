@@ -363,9 +363,30 @@ visibility hide
 group genes
 
 ########
+track DepthSegDup
+longLabel SegDupDepth 
+shortLabel SegDupDepth 
+priority 11
+visibility hide
+color 0,0,0 
+bigDataUrl TashaWSSD.bb
+type bigBed
+group fastCN
 
+track fosmids_indel
+type bigBed 12
+bigDataUrl discordant-indel.bb
+shortLabel fosmids indel candidates
+longLabel  fosmids indel candidates
+visibility hide
+itemRgb on
+group map
 
-
-
-
-
+track candidateIndel
+type bigBed 9
+bigDataUrl candidateIndel.bb
+shortLabel candidateIndel
+longLabel candidateIndel
+itemRgb on
+visibility hide
+group map
