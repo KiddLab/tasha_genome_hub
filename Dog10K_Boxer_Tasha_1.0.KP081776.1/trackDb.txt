@@ -246,6 +246,16 @@ visibility hide
 itemRgb on
 group map
 
+track fosmids_everted
+type bigBed 12
+bigDataUrl fosmids.everted.bb
+shortLabel fosmids everted
+longLabel  fosmids everted
+visibility hide
+itemRgb on
+group map
+
+
 track canFam_lift
 type bigBed 9
 itemRgb on
@@ -397,7 +407,7 @@ longLabel Amylase Tandem Duplication
 shortLabel amylaseTandem 
 priority 11
 visibility hide
-color 0,0,255 
+color 255,140,0
 bigDataUrl dup.bb
 type bigBed
 group fastCN
