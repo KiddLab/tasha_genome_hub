@@ -390,3 +390,15 @@ longLabel candidateIndel
 itemRgb on
 visibility hide
 group map
+
+
+track amylaseTandem
+longLabel Amylase Tandem Duplication
+shortLabel amylaseTandem 
+priority 11
+visibility hide
+color 0,0,255 
+bigDataUrl dup.bb
+type bigBed
+group fastCN
+
