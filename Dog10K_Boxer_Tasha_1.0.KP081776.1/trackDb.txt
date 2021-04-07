@@ -372,6 +372,16 @@ longLabel  Ensembl Zoey Rel 101 BLAT genes
 visibility hide
 group genes
 
+
+track NCBI
+type bigBed 12
+bigDataUrl NCBIrel106.bb
+shortLabel NCBI Genes
+longLabel  NCBI Release 106 Genes
+visibility hide
+group genes
+
+
 ########
 track DepthSegDup
 longLabel SegDupDepth 
