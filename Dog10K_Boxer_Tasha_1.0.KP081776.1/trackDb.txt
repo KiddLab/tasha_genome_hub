@@ -376,7 +376,7 @@ group genes
 track NCBI
 type bigBed 12
 bigDataUrl NCBIrel106.bb
-shortLabel NCBI Genes
+shortLabel NCBIrel106
 longLabel  NCBI Release 106 Genes
 visibility hide
 group genes
