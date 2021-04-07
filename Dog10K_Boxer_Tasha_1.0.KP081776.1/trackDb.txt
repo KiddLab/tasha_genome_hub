@@ -408,7 +408,7 @@ shortLabel amylaseTandem
 priority 11
 visibility hide
 color 255,140,0
-bigDataUrl dup.bb
+bigDataUrl dup.cf.lift.bb
 type bigBed
 group fastCN
 
